@@ -4,9 +4,9 @@ Authors: Sham Al-Jalam
 
 ## URLs
 
-* deployed application : []()
+* deployed application : [http://class-16-lab-env.eba-ef3sbhnp.us-east-1.elasticbeanstalk.com/](http://class-16-lab-env.eba-ef3sbhnp.us-east-1.elasticbeanstalk.com/)
 
-*  pull request: []()
+*  pull request: [https://github.com/ShamAhmad2022/cloud-server/pull/1](https://github.com/ShamAhmad2022/cloud-server/pull/1)
 
 ### process:
 I created a simple Node.js server, then I used AWS to deploy it using Elastic Beanstalk with the following steps:
